@@ -61,6 +61,6 @@ typings/
 # App
 build
 node_modules
-src/database/firebase/credentials.js
+# src/database/firebase/credentials.js
 public/sitemap.xml
 public/assets/hotjar/hotjar.js
