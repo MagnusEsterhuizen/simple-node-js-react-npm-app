@@ -57,3 +57,10 @@ typings/
 
 # dotenv environment variables file
 .env
+
+# App
+build
+node_modules
+src/database/firebase/credentials.js
+public/sitemap.xml
+public/assets/hotjar/hotjar.js
